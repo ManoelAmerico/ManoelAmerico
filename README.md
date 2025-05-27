@@ -1,4 +1,5 @@
 # 👋 Hello, I'm Manoel Américo | 🇺🇸 English
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mrnmanoel)
 
 Welcome to my space dedicated to **Data Science**! I'm a tech enthusiast passionate about **turning data into smart decisions**, combining statistics, programming, and business knowledge to solve real-world problems.
 
